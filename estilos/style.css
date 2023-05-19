@@ -43,7 +43,7 @@ section#login {
     transition-timing-function: ease;
 }
 
-section#login > div#imagem{
+section#login>div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/fachadaPredio.jpg) no-repeat;
     height: 200px;
@@ -51,7 +51,7 @@ section#login > div#imagem{
     background-position: right bottom;
 }
 
-section#login > div#formulario{
+section#login>div#formulario {
     display: block;
     padding: 10px;
 }
